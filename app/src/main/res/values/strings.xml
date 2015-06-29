@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HackSsms</string>
+
+    <string name="hello_world">Done by Everaldo Menout</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_call">Hacking</string>
+</resources>
