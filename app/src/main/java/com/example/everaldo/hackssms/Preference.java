@@ -1,3 +1,5 @@
+//this is a comment added by me
+
 package com.example.everaldo.hackssms;
 
 import android.content.Context;
